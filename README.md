@@ -34,6 +34,6 @@ report/ # Folder containing the project report in .docx format.
 ## Contact Information
 
 For any further questions or collaboration opportunities, please reach out to me at:
-- Email: [your-email@domain.com](candy0979438843@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](http://linkedin.com/in/依璇-郭-835b00268)
-- GitHub: [Your GitHub Profile](https://github.com/turtle910531)
+- Email: [candy0979438843@gmail.com](mailto:candy0979438843@gmail.com)
+- LinkedIn: [Iris Kuo](http://linkedin.com/in/依璇-郭-835b00268)
+- GitHub: [Iris Kuo](https://github.com/turtle910531)
