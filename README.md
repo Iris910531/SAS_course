@@ -7,13 +7,15 @@ This is my final report for the SAS course I took in my sophomore year, focusing
 
 ## Data Source
 
-Briefly describe the dataset(s) used in this project. Include information on:
-- The data source for this project is a dataset available on Kaggle, titled "Marketing Campaign". It can be accessed via the following link: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign.
+The data source for this project is a dataset available on Kaggle, titled "Marketing Campaign". It can be accessed via the following link: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign.
 
 ## Tools and statistical methods Used
 
 - **SAS**: use SAS 9.4 (English).
-- **statistical methods**: Descriptive statistics, normality tests, and tests of independence.
+- **statistical methods**:
+1. Descriptive statistics
+2. normality tests
+3. tests of independence
 
 ## Project Structure
 
