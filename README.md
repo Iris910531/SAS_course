@@ -20,7 +20,7 @@ Briefly describe the dataset(s) used in this project. Include information on:
 README.md # This file.
 data/ # Folder containing the dataset(s).
 code/ # Folder containing SAS code files.
-report/ # Folder containing the project report in .docx format.
+report/ # Folder containing the project report in .docx format and .pdf format.
 
 
 ## How to Use
