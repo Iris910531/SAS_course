@@ -39,8 +39,8 @@ if Marital_Status="Absurd" then Marital_Status="Single";
 if Marital_Status="Alone" then Marital_Status="Single";
 if Marital_Status="YOLO" then Marital_Status="Single";
 run;
-/*¥Ñ©óMarital_Status¸ÌAbsurd Alone YOLO¸ê®Æ¤Ó¤Ö µLªk¶i¦æÃöÁp©Ê¤ÀªR
-©ó¬O³o¨Ç¨ä¹ê¤]¬Oµ¥©ósingle §Ú§â¥¦§ï¦¨single³oÃş*/
+/*ç”±æ–¼Marital_Statusè£¡Absurd Alone YOLOè³‡æ–™å¤ªå°‘ ç„¡æ³•é€²è¡Œé—œè¯æ€§åˆ†æ
+æ–¼æ˜¯é€™äº›å…¶å¯¦ä¹Ÿæ˜¯ç­‰æ–¼single æˆ‘æŠŠå®ƒæ”¹æˆsingleé€™é¡*/
 
 data Wine;
 set Income_gp;
