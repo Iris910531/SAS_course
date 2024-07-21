@@ -9,6 +9,7 @@ This is my final report for the SAS course I took in my sophomore year, focusing
 
 The data source for this project is a dataset available on Kaggle, titled "Marketing Campaign". It can be accessed via the following link: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign.
 
+
 ## Tools and statistical methods Used
 
 - **SAS**: use SAS 9.4 (English).
@@ -19,10 +20,19 @@ The data source for this project is a dataset available on Kaggle, titled "Marke
 
 ## Project Structure
 
-README.md # This file.
-data/ # Folder containing the dataset(s).
-code/ # Folder containing SAS code files.
-report/ # Folder containing the project report in .docx format and .pdf format.
+```plaintext
+SAS_course/
+├── code/                     # Folder containing SAS code files.
+│   └── sas_final_project.sas
+├── data/                # Folder containing .csv data.
+│   └── marketing.csv
+
+├── report/                # Folder containing the project report details in .docx format.
+│   ├── customer_analytics_Chinese.docx
+│   └── customer_analytics_English.docx
+│
+└── README.md              # This file.
+```
 
 
 ## How to Use
@@ -36,6 +46,6 @@ report/ # Folder containing the project report in .docx format and .pdf format.
 ## Contact Information
 
 For any further questions or collaboration opportunities, please reach out to me at:
-- Email: [candy0979438843@gmail.com](mailto:candy0979438843@gmail.com)
-- LinkedIn: [Iris Kuo](http://linkedin.com/in/依璇-郭-835b00268)
+- Email: [yguo8395@gmail.com](mailto:yguo8395@gmail.com)
+- LinkedIn: [Iris Kuo](https://www.linkedin.com/in/yi-hsuan-kuo-835b00268/)
 - GitHub: [Iris Kuo](https://github.com/Iris910531)
