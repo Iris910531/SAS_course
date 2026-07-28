@@ -1,0 +1,20 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA market
+
+NOTE: Processing inline DATALINES (62 lines)
+
+NOTE: Read 62 rows from DATALINES.
+NOTE: Wrote market (62 rows, 13 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA market_complete
+
+
+NOTE: Read 62 rows from market.
+NOTE: Wrote market_complete (58 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.

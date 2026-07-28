@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-28T06:02:28Z",
+  "_captured_run_id": "r_dad5eb10d67b4b4b9fb2143017c64824",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote market (62 rows, 13 columns).",
+    "NOTE: Wrote market_complete (58 rows, 10 columns).",
+    "NOTE: Wrote Income_gp (58 rows, 11 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC FREQ statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
