@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_proc_freq_chisq",
+  "source_file": "code/sas_final_project.sas",
+  "source_blob_sha": "a9fd69d3a0f7f188c6f29c2ba215d4da740bb505",
+  "source_commit": "66e257cf55d24c30e40e046386e04e476ab24748",
+  "notes": "PROC FREQ chisq tests of independence (Education/Marital_Status/incomegp crossed with the wine spend band) after the income and wine grouping DATA steps, including the Absurd/Alone/YOLO -> Single recode. Verbatim from sas_final_project.sas; market dataset inlined from 62 real rows of data/marketing.csv."
+}

@@ -1,0 +1,46 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA market
+
+NOTE: Processing inline DATALINES (62 lines)
+
+NOTE: Read 62 rows from DATALINES.
+NOTE: Wrote market (62 rows, 13 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA market_complete
+
+
+NOTE: Read 62 rows from market.
+NOTE: Wrote market_complete (58 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Income_gp
+
+
+NOTE: Read 58 rows from market_complete.
+NOTE: Wrote Income_gp (58 rows, 11 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Wine
+
+
+NOTE: Read 58 rows from Income_gp.
+NOTE: Wrote Wine (58 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_mosaic_education_wine.spec.json
+NOTE: ODS plot written: freq_mosaic_education_wine.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_mosaic_marital_status_wine.spec.json
+NOTE: ODS plot written: freq_mosaic_marital_status_wine.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_mosaic_incomegp_wine.spec.json
+NOTE: ODS plot written: freq_mosaic_incomegp_wine.spec.json
+NOTE: PROC FREQ statement used.

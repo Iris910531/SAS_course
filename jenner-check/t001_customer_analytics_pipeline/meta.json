@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_customer_analytics_pipeline",
+  "source_file": "code/sas_final_project.sas",
+  "source_blob_sha": "a9fd69d3a0f7f188c6f29c2ba215d4da740bb505",
+  "source_commit": "66e257cf55d24c30e40e046386e04e476ab24748",
+  "notes": "Full customer-analytics pipeline verbatim from sas_final_project.sas (lines 6-123): cmiss cleaning, PROC MEANS, PROC UNIVARIATE with normality histograms, income/wine/meat/gold grouping, and 9 PROC FREQ chisq tests of independence. market dataset inlined from 62 real rows of data/marketing.csv (PROC IMPORT of the external CSV replaced with equivalent datalines)."
+}
